@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b1",
+    "name": "Perd\u00f3n Burger Cl\u00e1sica",
+    "description": "Carne 180g, queso, lechuga, tomate",
+    "price": 1200,
+    "image": "/assets/carta1.png",
+    "category": "hamburguesas"
+  },
+  {
+    "id": "b2",
+    "name": "Perd\u00f3n Burger Doble",
+    "description": "Doble carne, doble queso",
+    "price": 2200,
+    "image": "/assets/carta2.png",
+    "category": "hamburguesas"
+  },
+  {
+    "id": "p1",
+    "name": "Papas Medianas",
+    "description": "Papas crocantes",
+    "price": 450,
+    "image": "/assets/carta3.png",
+    "category": "acompa\u00f1amientos"
+  }
+]
